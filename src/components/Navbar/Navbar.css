@@ -1,0 +1,23 @@
+.nav-item:hover{
+    font-weight: bold;
+    color: black;
+    border-bottom: 2px solid black;
+    border-radius: 2px;
+}
+.sign-up{
+    color: white;
+    background-color: purple;
+    border: none;
+}
+.sign-up:hover{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    transition: 0.5s ease;
+}
+.sign-in:hover{
+    color: white;
+    background-color: purple;
+    font-weight: bold;
+    border: none;
+}
