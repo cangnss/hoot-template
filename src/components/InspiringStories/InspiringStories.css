@@ -1,0 +1,20 @@
+.img-container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+.left-img {
+  width: 500px;
+  height: 500px;
+  border-radius: 15px;
+}
+.right-img {
+  width: 450px;
+  height: 220px;
+  border-radius: 15px;
+}
