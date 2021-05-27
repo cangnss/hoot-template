@@ -1,0 +1,25 @@
+#linearCreate{
+    background: rgb(119,62,204);
+    background: linear-gradient(51deg, rgba(119,62,204,1) 4%, rgba(17,125,176,1) 53%, rgba(98,185,240,1) 100%);
+    border-bottom-right-radius: 35px;
+}
+#linearCreate {
+    position: relative;
+    height: 70px;
+    width: auto;
+    background: #e0efe3;
+}
+#linearCreate .container-fluid .row .position-relative .translate-middle{
+    margin-top:150px;
+    color:white;
+}
+.create-btn{
+    border: none;
+    width: 300px;
+    height: 50px;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-left: 110px;
+}
