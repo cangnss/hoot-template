@@ -1,5 +1,4 @@
 import React from 'react'
-import InspringImg from './InspringImg';
 import './InspiringStories.css';
 
 function InspiringStories() {
