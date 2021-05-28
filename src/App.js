@@ -5,6 +5,7 @@ import AuthorPost from './components/AuthorPost/AuthorPost';
 import InspiringStories from './components/InspiringStories/InspiringStories';
 import Gigster from './components/Gigster/Gigster';
 import LinearCreate from './components/LinearCreate/LinearCreate';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <InspiringStories />
       <Gigster />
       <LinearCreate />
+      <Footer />
     </section>
   );
 }

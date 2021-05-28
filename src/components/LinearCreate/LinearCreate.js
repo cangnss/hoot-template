@@ -13,8 +13,6 @@ function LinearCreate() {
                             <button type="button" className="create-btn">Create your profile</button>
                         </div>
                     </div>
-                    
-                    
                 </div>
             </div>
         </section>

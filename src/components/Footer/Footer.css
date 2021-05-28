@@ -1,0 +1,41 @@
+#footer{
+    margin-top: 35%;
+}
+#footer .container .row .col-md-3 .d-flex .fc{
+    color: #4267B2;
+}
+#footer .container .row .col-md-3 .d-flex .linkedin{
+    color: #0E76A8;
+}
+.about-list{
+    list-style-type: none;
+}
+.about-list .about-list-title{
+    color: black;
+    font-size: 24px;
+}
+.about-list li{
+    margin: 10px;
+    color: gray;
+}
+.browse-list{
+    list-style-type: none;
+}
+.browse-list .browse-list-title{
+    color: black;
+    font-size: 24px;
+}
+.browse-list li{
+    margin: 10px;
+    color: gray;
+}
+.subs-btn{
+    width: 200px;
+    height: 75px;
+    background-color: purple;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 18px;
+}
