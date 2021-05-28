@@ -39,6 +39,6 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.0",
-    "homepage":"http://cangnss.github.io/hoot-template"
+    "homepage":"https://cangnss.github.io/hoot-template"
   }
 }
